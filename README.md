@@ -1,1 +1,1 @@
-# WELCOME TO KIST CODING FOR LIFE GitHub page
+# Welcome to KIST Coding For Life GitHub
